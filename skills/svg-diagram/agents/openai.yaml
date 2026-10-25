@@ -1,0 +1,3 @@
+interface:
+  display_name: "SVG 架构图"
+  short_description: "手写 SVG 画架构图并渲染成 PNG"
